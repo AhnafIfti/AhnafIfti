@@ -3,7 +3,7 @@ I am Ahnaf Shahriar Ifti, a dedicated and results-driven Full-stack Developer wi
 
 
 ### - I’m currently working on CodeExcel Bangladesh 
-### - 📫 How to reach me: ahnafshahriarifti@gmail.com 
+### - How to reach me: ahnafshahriarifti@gmail.com 
 
 ### - Find Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhnafIfti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahnaf-shahriar-ifti-9b1408162//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ahnafifti.github.io/Ahnaf-Shahriar-Ifti/)  
